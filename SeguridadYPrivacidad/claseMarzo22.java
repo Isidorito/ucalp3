@@ -16,8 +16,8 @@
 		Sistemas de Gestión de Seg Informatica
 	
 	Definiciones:
-		Seguridad: 	Confidencialidad 					//C
-					Integridad 							//I
+		Seguridad: 	Confidencialidad 				//C
+					Integridad 				//I
 					Disponibilidad(Availability)		//A
 				
 			Estos 3 puntos son muy importantes, la preservación de estos es fundamental para la seguridad informatica.
