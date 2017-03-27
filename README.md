@@ -1,2 +1,2 @@
 # ucalp3
-Apuntes cursada UCALP SLicenciatura en Sistemas Tercer año 2017
+Apuntes cursada UCALP Licenciatura en Sistemas Tercer año 2017
